@@ -102,10 +102,3 @@ numpy
 matplotlib
 seaborn
 ```
-
----
-
-## ✍️ Autor
-
-**Abner Ridigolo**  
-[LinkedIn](https://www.linkedin.com/in/abnerridigolo) • [GitHub](https://github.com/AbnerRidigolo)
