@@ -1,11 +1,11 @@
 
-# 📊 Projeto: Previsão com LightGBM
+#  Projeto: Previsão com LightGBM
 
 Este projeto utiliza o algoritmo **LightGBM (Light Gradient Boosting Machine)** para realizar previsões com base em um conjunto de dados tabulares. O pipeline completo contempla desde a importação dos dados, pré-processamento, engenharia de atributos e avaliação de desempenho do modelo.
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 ├── lgbm.ipynb
@@ -16,7 +16,7 @@ Este projeto utiliza o algoritmo **LightGBM (Light Gradient Boosting Machine)** 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3.x
 - Pandas
@@ -28,7 +28,7 @@ Este projeto utiliza o algoritmo **LightGBM (Light Gradient Boosting Machine)** 
 
 ---
 
-## ⚙️ Etapas do Projeto
+##  Etapas do Projeto
 
 1. **Importação das Bibliotecas**
 2. **Leitura do Dataset**
@@ -51,13 +51,13 @@ Este projeto utiliza o algoritmo **LightGBM (Light Gradient Boosting Machine)** 
 
 ---
 
-## 📈 Resultados
+## Resultados
 
 O modelo LightGBM demonstrou **[adicione aqui a principal métrica obtida, como acurácia, F1, etc.]** nos dados de teste. Isso evidencia a capacidade do modelo em aprender padrões relevantes para a tarefa de previsão.
 
 ---
 
-## 🧠 O que é o LightGBM?
+##  O que é o LightGBM?
 
 O LightGBM é um algoritmo baseado em árvores de decisão que utiliza **boosting** para melhorar a performance preditiva. Ele é otimizado para:
 
@@ -67,7 +67,7 @@ O LightGBM é um algoritmo baseado em árvores de decisão que utiliza **boostin
 
 ---
 
-## 📦 Como Executar Localmente
+##  Como Executar Localmente
 
 1. Clone o repositório:
 
@@ -90,7 +90,7 @@ jupyter notebook lgbm.ipynb
 
 ---
 
-## ✅ Requisitos
+##  Requisitos
 
 Você pode criar um arquivo `requirements.txt` com:
 
